@@ -2,6 +2,7 @@
 
 🎓 Final year Computer Science student at **Kalasalingam University**, passionate about technology and service.  
 🚀 I'm currently exploring **Generative AI**, **LLMs**, **LangChain**, and real-world software development.
+🌐 I'm also learning and working on **Full Stack Web Development** to build end-to-end applications.
 
 ---
 
