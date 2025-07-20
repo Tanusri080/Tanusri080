@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Tanusri!
 
 🎓 Final year Computer Science student at **Kalasalingam University**, passionate about technology and service.  
-💻 Future software developer with aspirations to serve the nation through the **defence sector**.  
 🚀 I'm currently exploring **Generative AI**, **LLMs**, **LangChain**, and real-world software development.
 
 ---
