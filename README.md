@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Tanu Sri!
+# 👋 Hi there, I'm Tanusri!
 
 🎓 Final year Computer Science student at **Kalasalingam University**, passionate about technology and service.  
 💻 Future software developer with aspirations to serve the nation through the **defence sector**.  
